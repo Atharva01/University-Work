@@ -388,11 +388,11 @@ You should see the installed Docker version printed on the console.
 
 The `docker-compose up` command is a fundamental part of Docker Compose, a tool for defining and running multi-container Docker applications. This command is used to create and start containers defined in a `docker-compose.yml` file.
 
-### Prerequisites
+#### Prerequisites
 
 Before using `docker-compose up`, make sure you have Docker Compose installed on your system. You can download it from the official Docker Compose GitHub repository: [Docker Compose Releases](https://github.com/docker/compose/releases).
 
-### Usage
+#### Usage
 
 To use the `docker-compose up` command, follow these steps:
 
@@ -407,7 +407,7 @@ To use the `docker-compose up` command, follow these steps:
    ```bash
    docker-compose up -d
 
-### Access the Flask Application:
+#### Access the Flask Application:
 
 - By default, your Flask application may be running on a specific port within the container. To access it, you'll need to map the container port to a port on your host machine. 
 
