@@ -62,7 +62,7 @@ You should see the Conda version number.
 
    ```shell
    conda --version
-
+   ```
 
 ### Linux
 
