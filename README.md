@@ -415,17 +415,17 @@ To use the `docker-compose up` command, follow these steps:
 
 **Interacting with Your Flask Application**:
 
-You can interact with your Flask application just as you would with a locally hosted Flask app. Make HTTP requests to the specified endpoint, and you should receive responses from your containerized application.
+You can interact with your Flask application just as you would with a locally hosted Flask app. You can make HTTP requests to the specified endpoint, and you should receive responses from your containerized application.
 
 ## Automation Script
  
-To run the Javascript Web Application, navigate to the file, open Command Prompt (Shift + Right click) and run below command
+To run the Javascript Web Application, navigate to the file, open Command Prompt (Shift + Right click) and run the below command.
 
 ``` PowerShell
 python autojs.py 
 ```
 
-To run the Python Web Application, navigate to the file, open Command Prompt (Shift + Right click) and run below command
+To run the Python Web Application, navigate to the file, open Command Prompt (Shift + Right click) and run the below command.
 
 ```powershell
 python auto.py
