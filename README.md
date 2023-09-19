@@ -102,7 +102,7 @@ You should see the Conda version number.
    conda --version
    ```
 
-### Docker Installation Guide
+### Docker Installation
 
 This guide provides step-by-step instructions for installing Docker on different operating systems. Docker is a popular platform for developing, shipping and running container applications.
 ### Installation
