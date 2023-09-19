@@ -100,10 +100,7 @@ You should see the Conda version number.
 
    ```bash
    conda --version
-
-
-
-
+   ```
 
 ### Docker Installation Guide
 
